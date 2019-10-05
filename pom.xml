@@ -31,7 +31,7 @@
                 <version>3.0.0-M3</version>
                 <configuration>
                     <includes>
-                        <include>AutoTest.java</include>>
+                        <include>SimpleTest.java</include>>
                     </includes>
                 </configuration>
             </plugin>
